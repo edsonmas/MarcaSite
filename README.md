@@ -23,12 +23,20 @@ O projeto a seguir se trata de um teste técnico prático promovido pela empresa
 O sistema foi desenvolvido visando atender fielmente as funcionalidades propostas pelo avaliador, com adaptações julgadas necessárias ao intuito de tornar o sistema o mais coeso possível. 
 
 
+## Tecnologias Utilizadas 
 
-## Laravel Sponsors
+### Back End
+- PHP ^7.2.5|^8.0
+- Laravel/framework ^7.29
+- Composer 
+- MySQL 
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+### Front End
+- HTML / CSS / JS 
+- Json 
+- Jquery 
 
-### Premium Partners
+## Premium Partners
 
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
