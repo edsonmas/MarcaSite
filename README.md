@@ -20,7 +20,7 @@ O projeto a seguir se trata de um teste técnico prático promovido pela empresa
 
 ## Entendendo o Projeto
 
-O sistema foi desenvolvido visando atender fielmente as funcionalidades propostas pelo avaliador, com adaptações julgadas necessárias ao intuito de tornar o sistema o mais coeso possível. 
+O sistema foi desenvolvido visando atender fielmente as funcionalidades propostas pelo avaliador, com adaptações julgadas necessárias para tornar o sistema o mais coeso possível. 
 
 
 ## Tecnologias Utilizadas 
