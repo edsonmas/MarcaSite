@@ -9,7 +9,8 @@
 
 ## Sobre o Projeto 
 
-O projeto a seguir se trata de um teste técnico prático promovido pela empresa <strong>Marca Site</strong>. Consiste em um sistema de inscrição em cursos e cadastro dos cursos na plataforma, contendo área do administrador responsável pela gestão dos dados da inscrição, bem como os do usuário. 
+O projeto a seguir se trata de um teste técnico prático promovido pela empresa <strong>Marca Site</strong>. Consiste em um sistema de inscrição em cursos e cadastro dos cursos na plataforma. Contém também a área do administrador, responsável pela gestão dos dados da inscrição, bem como os do usuário. O sistema foi desenvolvido visando atender fielmente as funcionalidades propostas pelo avaliador, com adaptações julgadas necessárias para tornar o sistema o mais coeso possível. 
+
 
 - CRUD básico e prático.
 - Controle de acesso com recurso Gate do Laravel. 
@@ -17,10 +18,6 @@ O projeto a seguir se trata de um teste técnico prático promovido pela empresa
 - Manipulando as views e seus componentes com o Template Blade do Laravel.
 - Validando os dados das requisições com Validate do Laravel. 
 
-
-## Entendendo o Projeto
-
-O sistema foi desenvolvido visando atender fielmente as funcionalidades propostas pelo avaliador, com adaptações julgadas necessárias para tornar o sistema o mais coeso possível. 
 
 
 ## Tecnologias Utilizadas 
