@@ -41,7 +41,7 @@ O projeto a seguir se trata de um teste técnico prático promovido pela empresa
 ### Passo a Passo 
 1. Baixe este repositório em sua máquina. 
 2. Instale as dependências com "npm install" no terminal. 
-3. Rode o comando "composer dumpautload".  
+3. Rode o comando "composer dumpautoload".  
 4. Configure o arquivo .env (conexão com banco de dados). 
 5. Rode o comando "php artisan migrate:fresh --seed"  
 6. Login Adm.: testeadmin@teste.com / Senha: 123456
