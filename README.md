@@ -36,31 +36,21 @@ O sistema foi desenvolvido visando atender fielmente as funcionalidades proposta
 - Json 
 - Jquery 
 
-## Premium Partners
+## Como Executar a Aplicação 
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
+### Pré-requisitos 
+- PHP e Composer instalados
 
-## Contributing
+### Passo a Passo 
+1. Baixe este repositório em sua máquina. 
+2. Instale as dependências com "npm install" no terminal. 
+3. Rode o comando composer dumpautoload 
+4. Configure o arquivo .env (conexão com banco de dados). 
+5. Rode o comando "php artisan migrate:fresh --seed"  
+6. Login Adm.: testeadmin@teste.com / Senha: 123456
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## Observação
 
-## Code of Conduct
+Com o intuito de completar o desafio dentro do período estipulado algumas funcionalidades periféricas não foram atendidas, no entanto, foi visado atender os requisitos funcionais e objetivos do sistema. 
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
